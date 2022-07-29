@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5022189-5734-4052-ad02-31fc47c0cd0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bootstrap/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bootstrap/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/AesUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/PassBrick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/PassWall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestAESUtil.java" afterDir="false" />
-    </list>
+    <list default="true" id="d5022189-5734-4052-ad02-31fc47c0cd0c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
